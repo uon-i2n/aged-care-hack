@@ -1,7 +1,5 @@
 # University of Newcastle’s Integrated Innovation Network (I2N) presents 
-
-# NEW FUTURES: AGED CARE HACK
-
+# New Futures Hackathon for Aged Care
 11-12 May, 2018 
 New Space, Hunter St, Newcastle
 
